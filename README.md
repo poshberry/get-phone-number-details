@@ -14,6 +14,8 @@ Get Phone Number Details With Python!
  
  3 : $ pip install phonenumbers
  
+ blob:https://web.whatsapp.com/c74ecede-38e1-4a04-8708-c479284fef79
+ 
  4 : $ cd phone-number-details
  
  5 : $ python num.py
