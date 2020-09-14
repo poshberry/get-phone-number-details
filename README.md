@@ -43,9 +43,9 @@ Get Phone Number Details With Python!
  
  4 : $ cd phone-number-details
  
- ![7c87dd01-89e3-4cc1-a0b0-981a2cbf112e](https://user-images.githubusercontent.com/64362298/93083078-af9e3900-f69a-11ea-888a-c8420a67f88e.jpg)
- 
- 
  5 : $ python num.py
+
+![7c87dd01-89e3-4cc1-a0b0-981a2cbf112e](https://user-images.githubusercontent.com/64362298/93083078-af9e3900-f69a-11ea-888a-c8420a67f88e.jpg)
+
 
 # Hazır! bu program sayesinde telefon numarasının hat ve daha fazla bilgisine erişebilirsiniz. 
