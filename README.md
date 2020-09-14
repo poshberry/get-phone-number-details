@@ -13,7 +13,9 @@ Get Phone Number Details With Python!
  2 : $ git clone https://www.github.com/rashtion/phone-number-details
  
  3 : $ pip install phonenumbers
+ 
  4 : $ cd phone-number-details
+ 
  5 : $ python num.py
 
 # Done! you can get the simcard information and more details with this repo.
@@ -27,9 +29,11 @@ Get Phone Number Details With Python!
 1 : Telefon numarasını, kodun içindeki PHONE_NUMBER_HERE yazan kısma giriniz.
  
  2 : $ git clone https://www.github.com/rashtion/phone-number-details
- 
+  
  3 : $ pip install phonenumbers
+ 
  4 : $ cd phone-number-details
+ 
  5 : $ python num.py
 
 # Hazır! bu program sayesinde telefon numarasının hat ve daha fazla bilgisine erişebilirsiniz. 
