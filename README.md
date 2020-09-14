@@ -10,7 +10,7 @@ Get Phone Number Details With Python!
 
 1 : Enter the phone number to PHONE_NUMBER_HERE at code. 
  
- 2 : $ git clone https://www.github.com/rashtion/phone-number-details
+ 2 : $ git clone https://github.com/rashtion/get-phone-number-details
  
  3 : $ pip install phonenumbers
  
@@ -34,7 +34,7 @@ Get Phone Number Details With Python!
 
 1 : Telefon numarasını, kodun içindeki PHONE_NUMBER_HERE yazan kısma giriniz.
  
- 2 : $ git clone https://www.github.com/rashtion/phone-number-details
+ 2 : $ git clone https://github.com/rashtion/get-phone-number-details
   
  3 : $ pip install phonenumbers
  
